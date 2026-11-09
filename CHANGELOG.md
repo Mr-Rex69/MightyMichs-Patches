@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/Mr-Rex69/MightyMichs-Patches/compare/v1.0.2...v1.1.0) (2026-11-09)
+
+### ✨ New Features
+
+* add view-once test consent copy to settings resources ([17d03dd](https://github.com/Mr-Rex69/MightyMichs-Patches/commit/17d03dd0fc5067f79b22e3f73577afe2464e17e7))
+
 ## [1.0.2](https://github.com/Mr-Rex69/MightyMichs-Patches/compare/v1.0.1...v1.0.2) (2026-11-09)
 
 ### 🐛 Bug Fixes

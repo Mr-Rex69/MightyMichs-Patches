@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "patches": [
     {
       "name": "App icon",
@@ -541,7 +541,7 @@
     },
     {
       "name": "Mods settings resources",
-      "description": "Adds English strings for the MightyMich section in WhatsApp Settings.",
+      "description": "Adds English strings and experimental-test consent copy for MightyMich settings.",
       "default": true,
       "category": null,
       "dependencies": [],
