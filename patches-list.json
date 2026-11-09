@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.14.0",
+  "version": "1.0.0",
   "patches": [
     {
       "name": "App icon",
@@ -447,57 +447,6 @@
         }
       ],
       "options": []
-    },
-    {
-      "name": "Keep deleted messages",
-      "description": "Show messages that were deleted for everyone. May need a fingerprint update after WhatsApp upgrades.",
-      "default": true,
-      "category": null,
-      "dependencies": [],
-      "compatiblePackages": [
-        {
-          "packageName": "com.whatsapp",
-          "name": "WhatsApp",
-          "description": null,
-          "apkFileType": "APK",
-          "appIconColor": "#25D366",
-          "signatures": null,
-          "targets": [
-            {
-              "version": "2.26.43.75",
-              "versionCodes": null,
-              "isExperimental": false,
-              "minSdk": null,
-              "description": null
-            },
-            {
-              "version": "2.26.43.74",
-              "versionCodes": null,
-              "isExperimental": true,
-              "minSdk": null,
-              "description": null
-            },
-            {
-              "version": "2.26.43.72",
-              "versionCodes": null,
-              "isExperimental": true,
-              "minSdk": null,
-              "description": null
-            }
-          ]
-        }
-      ],
-      "options": [
-        {
-          "key": "highlight",
-          "title": "Highlight deleted messages",
-          "description": "Mark deleted messages so they are easier to spot.",
-          "required": false,
-          "type": "kotlin.Boolean",
-          "default": true,
-          "values": null
-        }
-      ]
     },
     {
       "name": "Limit Copy to share menu",
