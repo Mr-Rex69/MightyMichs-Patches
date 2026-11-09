@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/Mr-Rex69/MightyMichs-Patches/compare/v1.0.0...v1.0.1) (2026-11-09)
+
+### 🐛 Bug Fixes
+
+* remove broken read receipts patch ([eb10d3b](https://github.com/Mr-Rex69/MightyMichs-Patches/commit/eb10d3ba833466846bc28781cf22cbb7bd4f58c2))
+
 ## 1.0.0 (2026-11-09)
 
 ### 🐛 Bug Fixes
