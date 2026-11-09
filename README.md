@@ -26,7 +26,7 @@ Or
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.1](https://github.com/Mr-Rex69/MightyMichs-Patches/releases/tag/v1.0.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;71 patches total
+> **[v1.0.2](https://github.com/Mr-Rex69/MightyMichs-Patches/releases/tag/v1.0.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;71 patches total
 <details open>
 <summary>📦 WhatsApp&nbsp;&nbsp;•&nbsp;&nbsp;6 patches</summary>
 <br>
@@ -43,7 +43,7 @@ Or
 | [Mods settings resources](#mods-settings-resources) | Adds English strings for the MightyMich section in WhatsApp Settings. |  |
 | [Typing indicator](#typing-indicator) | If enabled, others won't see when you are typing. |  |
 | [Usage data](#usage-data) | Limit diagnostic and analytics data WhatsApp sends. |  |
-| [View once media](#view-once-media) | Allow reopening and saving view once photos and videos. |  |
+| [View once media](#view-once-media) | Not compatible with the currently analysed WhatsApp build. |  |
 
 </details>
 

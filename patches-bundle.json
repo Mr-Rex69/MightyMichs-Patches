@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-09T14:38:23",
-  "description": "## [1.0.1](https://github.com/Mr-Rex69/MightyMichs-Patches/compare/v1.0.0...v1.0.1) (2026-11-09)\n\n### 🐛 Bug Fixes\n\n* remove broken read receipts patch ([eb10d3b](https://github.com/Mr-Rex69/MightyMichs-Patches/commit/eb10d3ba833466846bc28781cf22cbb7bd4f58c2))",
-  "download_url": "https://github.com/Mr-Rex69/MightyMichs-Patches/releases/download/v1.0.1/patches-1.0.1.mpp",
+  "created_at": "2026-11-09T15:45:58",
+  "description": "## [1.0.2](https://github.com/Mr-Rex69/MightyMichs-Patches/compare/v1.0.1...v1.0.2) (2026-11-09)\n\n### 🐛 Bug Fixes\n\n* disable unverified view-once matcher ([32212c5](https://github.com/Mr-Rex69/MightyMichs-Patches/commit/32212c5944341ac0f99631145e9a616a5d45d434))",
+  "download_url": "https://github.com/Mr-Rex69/MightyMichs-Patches/releases/download/v1.0.2/patches-1.0.2.mpp",
   "signature_download_url": "",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

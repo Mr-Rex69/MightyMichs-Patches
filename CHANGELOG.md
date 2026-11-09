@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/Mr-Rex69/MightyMichs-Patches/compare/v1.0.1...v1.0.2) (2026-11-09)
+
+### 🐛 Bug Fixes
+
+* disable unverified view-once matcher ([32212c5](https://github.com/Mr-Rex69/MightyMichs-Patches/commit/32212c5944341ac0f99631145e9a616a5d45d434))
+
 ## [1.0.1](https://github.com/Mr-Rex69/MightyMichs-Patches/compare/v1.0.0...v1.0.1) (2026-11-09)
 
 ### 🐛 Bug Fixes
