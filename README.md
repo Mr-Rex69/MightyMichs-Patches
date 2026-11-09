@@ -26,9 +26,9 @@ Or
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.14.0](https://github.com/mich111discord/MightyMichs-Patches/releases/tag/v1.14.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;73 patches total
+> **[v1.14.0](https://github.com/mich111discord/MightyMichs-Patches/releases/tag/v1.14.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;72 patches total
 <details open>
-<summary>📦 WhatsApp&nbsp;&nbsp;•&nbsp;&nbsp;8 patches</summary>
+<summary>📦 WhatsApp&nbsp;&nbsp;•&nbsp;&nbsp;7 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -39,7 +39,6 @@ Or
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [App icon](#app-icon) | Choose a classic or premium-style launcher icon. | • Style |
-| [Keep deleted messages](#keep-deleted-messages) | Show messages that were deleted for everyone. May need a fingerprint update after WhatsApp upgrades. | • Highlight deleted messages |
 | [Mods settings entry](#mods-settings-entry) | Reserves a MightyMich row in Settings. Full dialog wiring needs the settings-list fingerprint for this WhatsApp build. |  |
 | [Mods settings resources](#mods-settings-resources) | Adds English strings for the MightyMich section in WhatsApp Settings. |  |
 | [Read receipts](#read-receipts) | If enabled, you won't send read receipts (blue ticks). | • Always off |
