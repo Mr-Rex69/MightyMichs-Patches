@@ -10,7 +10,7 @@ import app.morphe.patcher.patch.resourcePatch
 @Suppress("unused")
 val addModsSettingsResourcesPatch = resourcePatch(
     name = "Mods settings resources",
-    description = "Adds English strings for the MightyMich section in WhatsApp Settings.",
+    description = "Adds English strings and experimental-test consent copy for MightyMich settings.",
     default = true,
 ) {
     compatibleWith(WhatsAppCompatibility.WHATSAPP)
@@ -30,7 +30,17 @@ val addModsSettingsResourcesPatch = resourcePatch(
     <string name="mightymich_highlight_deleted">Highlight deleted messages</string>
     <string name="mightymich_highlight_deleted_summary">Mark deleted messages so they are easier to spot</string>
     <string name="mightymich_view_once">View once media</string>
-    <string name="mightymich_view_once_summary">Allow reopening and saving view once photos and videos</string>
+    <string name="mightymich_view_once_summary">Experimental feature for controlled testing only</string>
+    <string name="mightymich_view_once_consent_title">View Once Media — Test Mode</string>
+    <string name="mightymich_view_once_consent_intro">This feature is experimental and intended for controlled testing.</string>
+    <string name="mightymich_view_once_consent_permission">I confirm that I have permission from everyone involved to use the test media.</string>
+    <string name="mightymich_view_once_consent_privacy">I agree to respect the privacy and consent of other participants.</string>
+    <string name="mightymich_view_once_consent_responsibility">I understand that I am responsible for my use of the modified application.</string>
+    <string name="mightymich_view_once_consent_risks">I understand that experimental patches may behave unexpectedly.</string>
+    <string name="mightymich_view_once_consent_acknowledge">I have read and agree to these testing conditions.</string>
+    <string name="mightymich_view_once_consent_continue">Continue to test mode</string>
+    <string name="mightymich_view_once_consent_cancel">Cancel</string>
+    <string name="mightymich_view_once_consent_notice">Acknowledgement does not replace the sender\'s consent or waive anyone else\'s rights.</string>
     <string name="mightymich_no_receipts">Read receipts</string>
     <string name="mightymich_no_receipts_summary">If turned off, you won\'t send read receipts</string>
     <string name="mightymich_hide_typing">Typing indicator</string>
